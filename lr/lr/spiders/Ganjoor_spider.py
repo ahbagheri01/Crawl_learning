@@ -1,24 +1,23 @@
 import scrapy
-
+from scrapy import item
+from ..items import LrItem
 class Ganjoor_spider(scrapy.Spider):
     name = 'Ganjoor_spider'
     start_urls = ["https://quotes.toscrape.com/"]
-
-
    # def parse(self, response, **kwargs):
      #   return super().parse(response, **kwargs)
 
     def parse(self, response):
+        items = LrItem()
         all_div_cols = response.css('div.quote')
         for quote in all_div_cols:
             title = quote.css('span.text::text').extract()
             author= quote.css('.author::text').extract()
             teg = quote.css('.tag::text').extract()
-            yield{ 
-                'title':title,
-                'authos':author,
-                'tag':teg
-            }
+            items["title"] = title
+            items["author"] = author
+            items["tag"] = teg
+            yield items
 
 
 
