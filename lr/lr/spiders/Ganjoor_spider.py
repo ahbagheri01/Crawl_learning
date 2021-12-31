@@ -10,14 +10,15 @@ class Ganjoor_spider(scrapy.Spider):
 
     def parse(self, response):
         all_div_cols = response.css('div.quote')
-        title = all_div_cols.css('span.text::text').extract()
-        author= all_div_cols.css('.author::text').extract()
-        teg = all_div_cols.css('.tag::text').extract()
-        yield{
-            'title':title,
-            'authos':author,
-            'tag':teg
-        }
+        for quote in all_div_cols:
+            title = quote.css('span.text::text').extract()
+            author= quote.css('.author::text').extract()
+            teg = quote.css('.tag::text').extract()
+            yield{ 
+                'title':title,
+                'authos':author,
+                'tag':teg
+            }
 
 
 
