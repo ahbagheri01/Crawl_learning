@@ -9,7 +9,7 @@ class Ganjoor_spider(scrapy.Spider):
      #   return super().parse(response, **kwargs)
 
     def parse(self, response):
-        all_div_cols = response.css('div.quote')[0]
+        all_div_cols = response.css('div.quote')
         title = all_div_cols.css('span.text::text').extract()
         author= all_div_cols.css('.author::text').extract()
         teg = all_div_cols.css('.tag::text').extract()
