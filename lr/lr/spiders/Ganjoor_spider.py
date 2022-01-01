@@ -4,10 +4,8 @@ from ..items import LrItem
 class Ganjoor_spider(scrapy.Spider):
     name = 'Ganjoor_spider'
     start_urls = ["https://ganjoor.net/"]
+    id = 1
     authors = {}
-   # def parse(self, response, **kwargs):
-     #   return super().parse(response, **kwargs)
-
     def parse(self, response):
         items = LrItem()
         all_div_cols = response.css('div.poet').css("a")
@@ -20,7 +18,9 @@ class Ganjoor_spider(scrapy.Spider):
             items["title"] = title
             items["author"] = author
             items["link"] = self.start_urls[0] + author
+            items["id"] = self.id
             yield items
+            self.id +=1
 # scrapy shell 'https://quotes.toscrape.com/'
 #response.css("title::text").extract_first()
 # https://quotes.toscrape.com/

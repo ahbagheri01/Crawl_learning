@@ -12,5 +12,6 @@ class LrItem(scrapy.Item):
     title = scrapy.Field()
     author = scrapy.Field()
     link = scrapy.Field()
+    id = scrapy.Field()
 
     pass

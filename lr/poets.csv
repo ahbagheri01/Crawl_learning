@@ -1,0 +1,168 @@
+author,id,link,title
+/hafez,1,https://ganjoor.net//hafez,حافظ شیرازی
+/saadi,2,https://ganjoor.net//saadi,سعدی شیرازی
+/moulavi,3,https://ganjoor.net//moulavi,جلال الدین محمد مولوی
+/ferdousi,4,https://ganjoor.net//ferdousi,ابوالقاسم فردوسی
+/khayyam,5,https://ganjoor.net//khayyam,خیام نیشابوری
+/nezami,6,https://ganjoor.net//nezami,نظامی گنجوی
+/roodaki,7,https://ganjoor.net//roodaki,رودکی سمرقندی
+/daghighi,8,https://ganjoor.net//daghighi,دقیقی طوسی
+/ferdousi,9,https://ganjoor.net//ferdousi,ابوالقاسم فردوسی
+/kesayee,10,https://ganjoor.net//kesayee,کسایی مروزی
+/onsori,11,https://ganjoor.net//onsori,عنصری بلخی
+/abusaeed,12,https://ganjoor.net//abusaeed,ابوسعید ابوالخیر
+/ayyooghi,13,https://ganjoor.net//ayyooghi,عیوقی
+/asjadi,14,https://ganjoor.net//asjadi,عسجدی مروزی
+/farrokhi,15,https://ganjoor.net//farrokhi,فرخی سیستانی
+/hojviri,16,https://ganjoor.net//hojviri,علی بن عثمان هجویری
+/naserkhosro,17,https://ganjoor.net//naserkhosro,ناصرخسرو قبادیانی
+/abdullah,18,https://ganjoor.net//abdullah,خواجه عبدالله انصاری
+/azraghi,19,https://ganjoor.net//azraghi,ازرقی هروی
+/asadi,20,https://ganjoor.net//asadi,اسدی توسی
+/asad,21,https://ganjoor.net//asad,فخرالدین اسعد گرگانی
+/manoochehri,22,https://ganjoor.net//manoochehri,منوچهری دامغانی
+/osmani,23,https://ganjoor.net//osmani,ابوعلی حسن بن احمد عثمانی
+/ghatran,24,https://ganjoor.net//ghatran,قطران تبریزی
+/keikavus,25,https://ganjoor.net//keikavus,عنصرالمعالی کیکاووس
+/babataher,26,https://ganjoor.net//babataher,باباطاهر
+/nashenas,27,https://ganjoor.net//nashenas,سرایندهٔ فرامرزنامه
+/masood,28,https://ganjoor.net//masood,مسعود سعد سلمان
+/khayyam,29,https://ganjoor.net//khayyam,خیام نیشابوری
+/amagh,30,https://ganjoor.net//amagh,عمعق بخاری
+/rooni,31,https://ganjoor.net//rooni,ابوالفرج رونی
+/ghazzali,32,https://ganjoor.net//ghazzali,امام محمد غزالی
+/iranshan,33,https://ganjoor.net//iranshan,ایرانشان ابن ابی الخیر 
+/amir,34,https://ganjoor.net//amir,امیر معزی نیشابوری
+/sanaee,35,https://ganjoor.net//sanaee,سنایی غزنوی
+/mokhtari,36,https://ganjoor.net//mokhtari,عثمان مختاری
+/gilani,37,https://ganjoor.net//gilani,عبدالقادر گیلانی
+/vatvat,38,https://ganjoor.net//vatvat,رشیدالدین وطواط
+/abbadi,39,https://ganjoor.net//abbadi,عبادی مروزی
+/eynolghozat,40,https://ganjoor.net//eynolghozat,عین‌القضات همدانی
+/mmon,41,https://ganjoor.net//mmon,محمد بن منور
+/aroozi,42,https://ganjoor.net//aroozi,نظامی عروضی
+/jamal,43,https://ganjoor.net//jamal,جمال‌الدین عبدالرزاق اصفهانی
+/meybodi,44,https://ganjoor.net//meybodi,رشیدالدین میبدی
+/mahsati,45,https://ganjoor.net//mahsati,مهستی گنجوی
+/monshi,46,https://ganjoor.net//monshi,نصرالله منشی
+/anvari,47,https://ganjoor.net//anvari,انوری ابیوردی
+/jabali,48,https://ganjoor.net//jabali,عبدالواسع جبلی
+/hamid,49,https://ganjoor.net//hamid,حمیدالدین بلخی
+/beylaghani,50,https://ganjoor.net//beylaghani,مجیرالدین بیلقانی
+/falaki,51,https://ganjoor.net//falaki,فلکی شروانی
+/saber,52,https://ganjoor.net//saber,ادیب صابر
+/khaghani,53,https://ganjoor.net//khaghani,خاقانی شروانی
+/nezami,54,https://ganjoor.net//nezami,نظامی گنجوی
+/hasan,55,https://ganjoor.net//hasan,سید حسن غزنوی
+/attar,56,https://ganjoor.net//attar,عطار نیشابوری
+/babaafzal,57,https://ganjoor.net//babaafzal,باباافضل کاشانی
+/zahir,58,https://ganjoor.net//zahir,ظهیر فاریابی
+/akhsikati,59,https://ganjoor.net//akhsikati,اثیر اخسیکتی
+/ouhad,60,https://ganjoor.net//ouhad,اوحدالدین کرمانی
+/kamal,61,https://ganjoor.net//kamal,کمال‌الدین اسماعیل
+/daye,62,https://ganjoor.net//daye,نجم‌الدین رازی
+/varavini,63,https://ganjoor.net//varavini,سعدالدین وراوینی
+/khajenasir,64,https://ganjoor.net//khajenasir,خواجه نصیرالدین طوسی
+/eraghi,65,https://ganjoor.net//eraghi,عراقی
+/emami,66,https://ganjoor.net//emami,امامی هروی
+/moulavi,67,https://ganjoor.net//moulavi,جلال الدین محمد مولوی
+/hamgar,68,https://ganjoor.net//hamgar,مجد همگر
+/saadi,69,https://ganjoor.net//saadi,سعدی شیرازی
+/valad,70,https://ganjoor.net//valad,سلطان ولد
+/homam,71,https://ganjoor.net//homam,همام تبریزی
+/nezari,72,https://ganjoor.net//nezari,حکیم نزاری قهستانی
+/khosro,73,https://ganjoor.net//khosro,امیرخسرو دهلوی
+/hoseyni,74,https://ganjoor.net//hoseyni,حسینی
+/ouhadi,75,https://ganjoor.net//ouhadi,اوحدی مراغه‌ای
+/ebneyamin,76,https://ganjoor.net//ebneyamin,ابن یمین فریومدی
+/shabestari,77,https://ganjoor.net//shabestari,شیخ محمود شبستری
+/khajoo,78,https://ganjoor.net//khajoo,خواجوی کرمانی
+/obeyd,79,https://ganjoor.net//obeyd,عبید زاکانی
+/seyf,80,https://ganjoor.net//seyf,سیف فرغانی
+/salman,81,https://ganjoor.net//salman,سلمان ساوجی
+/khojandi,82,https://ganjoor.net//khojandi,کمال خجندی
+/jalal,83,https://ganjoor.net//jalal,جلال عضد
+/jahan,84,https://ganjoor.net//jahan,جهان ملک خاتون
+/hafez,85,https://ganjoor.net//hafez,حافظ شیرازی
+/shahnematollah,86,https://ganjoor.net//shahnematollah,شاه نعمت‌الله ولی
+/nasimi,87,https://ganjoor.net//nasimi,عمادالدین نسیمی
+/maghrebi,88,https://ganjoor.net//maghrebi,شمس مغربی
+/ghasem,89,https://ganjoor.net//ghasem,قاسم انوار
+/heydar,90,https://ganjoor.net//heydar,حیدر شیرازی
+/koosaj,91,https://ganjoor.net//koosaj,محمد کوسج
+/hoseyn,92,https://ganjoor.net//hoseyn,حسین خوارزمی
+/ebnehesam,93,https://ganjoor.net//ebnehesam,ابن حسام خوسفی
+/shahi,94,https://ganjoor.net//shahi,امیر شاهی سبزواری
+/khiali,95,https://ganjoor.net//khiali,خیالی بخارایی
+/jami,96,https://ganjoor.net//jami,جامی
+/jarooni,97,https://ganjoor.net//jarooni,سلیمی جرونی
+/fani,98,https://ganjoor.net//fani,امیرعلیشیر نوایی
+/asiri,99,https://ganjoor.net//asiri,اسیری لاهیجی
+/ahli,100,https://ganjoor.net//ahli,اهلی شیرازی
+/shahedi,101,https://ganjoor.net//shahedi,ابراهیم شاهدی دده
+/faghani,102,https://ganjoor.net//faghani,بابافغانی شیرازی
+/helali,103,https://ganjoor.net//helali,هلالی جغتایی
+/fozooli,104,https://ganjoor.net//fozooli,فضولی بغدادی
+/mohtasham,105,https://ganjoor.net//mohtasham,محتشم کاشانی
+/vahshi,106,https://ganjoor.net//vahshi,وحشی بافقی
+/bahaee,107,https://ganjoor.net//bahaee,شیخ بهایی
+/razi,108,https://ganjoor.net//razi,رضی‌الدین آرتیمانی
+/naziri,109,https://ganjoor.net//naziri,نظیری نیشابوری
+/orfi,110,https://ganjoor.net//orfi,عرفی شیرازی
+/nouee,111,https://ganjoor.net//nouee,نوعی خبوشانی
+/kalim,112,https://ganjoor.net//kalim,کلیم
+/masih,113,https://ganjoor.net//masih,ملا مسیح پانی‌پتی
+/abolhasan,114,https://ganjoor.net//abolhasan,ابوالحسن فراهانی
+/salim,115,https://ganjoor.net//salim,سلیم تهرانی
+/ghodsi,116,https://ganjoor.net//ghodsi,قدسی مشهدی
+/saeb,117,https://ganjoor.net//saeb,صائب تبریزی
+/feyz,118,https://ganjoor.net//feyz,فیض کاشانی
+/vaez,119,https://ganjoor.net//vaez,واعظ قزوینی
+/shahrestani,120,https://ganjoor.net//shahrestani,اسیر شهرستانی
+/bahoo,121,https://ganjoor.net//bahoo,سلطان باهو
+/jooya,122,https://ganjoor.net//jooya,جویای تبریزی
+/bidel,123,https://ganjoor.net//bidel,بیدل دهلوی
+/hatef,124,https://ganjoor.net//hatef,هاتف اصفهانی
+/ghassab,125,https://ganjoor.net//ghassab,قصاب کاشانی
+/moshtagh,126,https://ganjoor.net//moshtagh,مشتاق اصفهانی
+/hazin,127,https://ganjoor.net//hazin,حزین لاهیجی
+/saeeda,128,https://ganjoor.net//saeeda,سعیدا
+/tabib,129,https://ganjoor.net//tabib,طبیب اصفهانی
+/azar,130,https://ganjoor.net//azar,آذر بیگدلی
+/neshat,131,https://ganjoor.net//neshat,نشاط اصفهانی
+/sahab,132,https://ganjoor.net//sahab,سحاب اصفهانی
+/naraghi,133,https://ganjoor.net//naraghi,ملا احمد نراقی
+/ghaemmagham,134,https://ganjoor.net//ghaemmagham,قائم مقام فراهانی
+/khaled,135,https://ganjoor.net//khaled,خالد نقشبندی
+/rashhe,136,https://ganjoor.net//rashhe,رشحه
+/ashofte,137,https://ganjoor.net//ashofte,آشفتهٔ شیرازی
+/ghaleb,138,https://ganjoor.net//ghaleb,غالب دهلوی
+/asrar,139,https://ganjoor.net//asrar,حکیم سبزواری
+/forooghi,140,https://ganjoor.net//forooghi,فروغی بسطامی
+/rhedayat,141,https://ganjoor.net//rhedayat,رضاقلی خان هدایت
+/ghaani,142,https://ganjoor.net//ghaani,قاآنی
+/vahdat,143,https://ganjoor.net//vahdat,وحدت کرمانشاهی
+/nayyer,144,https://ganjoor.net//nayyer,نیر تبریزی
+/mohit,145,https://ganjoor.net//mohit,محیط قمی
+/fayez,146,https://ganjoor.net//fayez,فایز
+/omman,147,https://ganjoor.net//omman,عمان سامانی
+/samet,148,https://ganjoor.net//samet,صامت بروجردی
+/elhami,149,https://ganjoor.net//elhami,الهامی کرمانشاهی
+/ghobar,150,https://ganjoor.net//ghobar,غبار همدانی
+/safa,151,https://ganjoor.net//safa,صفای اصفهانی
+/aghakhan,152,https://ganjoor.net//aghakhan,میرزا آقاخان کرمانی
+/shater,153,https://ganjoor.net//shater,شاطرعباس صبوحی
+/adib,154,https://ganjoor.net//adib,ادیب الممالک فراهانی
+/toghrol,155,https://ganjoor.net//toghrol,طغرل احراری
+/iqbal,156,https://ganjoor.net//iqbal,اقبال لاهوری
+/iraj,157,https://ganjoor.net//iraj,ایرج میرزا
+/moftagher,158,https://ganjoor.net//moftagher,محمدحسین غروی اصفهانی
+/aref,159,https://ganjoor.net//aref,عارف قزوینی
+/bahar,160,https://ganjoor.net//bahar,ملک‌الشعرا بهار
+/yazdi,161,https://ganjoor.net//yazdi,فرخی یزدی
+/afsar,162,https://ganjoor.net//afsar,افسرالملوک عاملی
+/eshghi,163,https://ganjoor.net//eshghi,میرزاده عشقی
+/shahriar,164,https://ganjoor.net//shahriar,شهریار
+/parvin,165,https://ganjoor.net//parvin,پروین اعتصامی
+/khalili,166,https://ganjoor.net//khalili,خلیل‌الله خلیلی
+/rahi,167,https://ganjoor.net//rahi,رهی معیری
