@@ -3,24 +3,24 @@ from scrapy import item
 from ..items import LrItem
 class Ganjoor_spider(scrapy.Spider):
     name = 'Ganjoor_spider'
-    start_urls = ["https://quotes.toscrape.com/"]
+    start_urls = ["https://ganjoor.net/"]
+    authors = {}
    # def parse(self, response, **kwargs):
      #   return super().parse(response, **kwargs)
 
     def parse(self, response):
         items = LrItem()
-        all_div_cols = response.css('div.quote')
+        all_div_cols = response.css('div.poet').css("a")
         for quote in all_div_cols:
-            title = quote.css('span.text::text').extract()
-            author= quote.css('.author::text').extract()
-            teg = quote.css('.tag::text').extract()
+            title = quote.xpath('@title').extract()
+            if (len(title)) <= 0:
+                continue
+            title = title[0]
+            author= quote.xpath('@href').extract()[0]
             items["title"] = title
             items["author"] = author
-            items["tag"] = teg
+            items["link"] = self.start_urls[0] + author
             yield items
-
-
-
 # scrapy shell 'https://quotes.toscrape.com/'
 #response.css("title::text").extract_first()
 # https://quotes.toscrape.com/

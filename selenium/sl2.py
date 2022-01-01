@@ -3,17 +3,16 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
-mydriver = webdriver.Chrome()
 address = 'https://api.snappfood.ir/restaurant/menu/p5wjme/shila/shariati'
 class infinite_scroll(object):
-  def __init__(self, last): 
-    self.last = last
-  def __call__(self, driver):
-    new = driver.execute_script('return document.body.scrollHeight')  
-    if new > self.last:
-        return new
-    else:
-        return False
+    def __init__(self, last): 
+        self.last = last
+    def __call__(self, driver):
+        new = driver.execute_script('return document.body.scrollHeight')  
+        if new > self.last:
+            return new
+        else:
+            return False
 def scroll_until_end(mydriver):
     last_height = mydriver.execute_script('return document.body.scrollHeight')
     flag=1
@@ -43,3 +42,5 @@ def parse(driver,address,SCROLL_PAUSE_TIME = 0.5):
             img_src = image[0].get_attribute("src")
             print(img_src)
     print("OHHH")
+mydriver = webdriver.Chrome()
+parse(mydriver,address)
